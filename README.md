@@ -7,7 +7,7 @@ It has been designed to be as unobtrusive and universal as possible.
 
 There is no installation needed.  Just run the script as ROOT and follow the on-screen prompts.
 
-wget https://git.io/vpn -O openvpn-install.sh
+wget https://git.io/v6SeG -O openvpn-install.sh
 chmod +x openvpn-install.sh
 sudo openvpn-install.sh
 
